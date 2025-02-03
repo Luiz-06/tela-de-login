@@ -1,6 +1,6 @@
 # Projeto de Login
 
-Este projeto consiste em uma página de **Login** simples e estilizada com **HTML** e **CSS**, e uma página de **vídeo** incorporado do YouTube. O design da página de login é responsivo e adaptável a diferentes tamanhos de tela, proporcionando uma boa experiência para os usuários.
+Este projeto consiste em uma página de **Login** simples e estilizada com **HTML** e **CSS**. O design da página de login é responsivo e adaptável a diferentes tamanhos de tela, proporcionando uma boa experiência para os usuários.
 
 ## Funcionalidades
 
