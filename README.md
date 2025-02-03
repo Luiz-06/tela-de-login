@@ -8,7 +8,7 @@ Este projeto consiste em uma página de **Login** simples e estilizada com **HTM
   - Campos de entrada para nome de usuário e senha.
   - Botões de **Entrar** e **Limpar**.
   - Estilos modernos e responsivos utilizando **CSS**.
-  - 
+  
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura do conteúdo das páginas.
